@@ -1,6 +1,6 @@
 services:
   app_hmi_demo:
-    image: ghcr.io/cshilwant/app_hmi_demo:latest
+    image: ghcr.io/texasinstruments/app_hmi_demo:latest
     container_name: app_hmi_demo
     restart: on-failure:5
     environment:
