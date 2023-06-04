@@ -1,3 +1,4 @@
+version: "2.4"
 services:
   app_thermostat_demo:
     image: ghcr.io/texasinstruments/app_thermostat_demo:latest
